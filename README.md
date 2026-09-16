@@ -15,3 +15,4 @@ Each folder in `entries/` is one topic: `main.cpp` (the code) and `notes.md` (wh
 ## Entries
 
 - 001 [Hello world](entries/001-hello-world/notes.md) - 2026-09-15
+- 002 [errors and warnings](entries/002-errors-and-warnings/notes.md) - 2026-09-15
