@@ -18,3 +18,4 @@ Each folder in `entries/` is one topic: `main.cpp` (the code) and `notes.md` (wh
 - 002 [errors and warnings](entries/002-errors-and-warnings/notes.md) - 2026-09-15
 - 002 [errors and warnings](entries/002-errors-and-warnings/notes.md) - 2026-09-17
 - 002 [functions](entries/002-functions/notes.md) - 2026-09-17
+- 003 [input_output](entries/003-input-output/notes.md) - 2026-09-17
